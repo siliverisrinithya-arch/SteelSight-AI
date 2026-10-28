@@ -10,7 +10,7 @@ SteelSight AI explores how computer vision can assist steel surface inspection b
 ## Project Demo
 
 The dashboard allows users to upload steel surface images and view detected defects, confidence scores, and bounding boxes.
-
+![SteelSight AI Dashboard](./steelsight-demo.png)
 ## Features
 
 - Steel surface defect detection using YOLO11n.
