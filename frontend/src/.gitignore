@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Node.js
+frontend/node_modules/
+frontend/dist/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Training outputs and temporary files
+runs/
+*.log
+
+# Large trained model
+best.pt
